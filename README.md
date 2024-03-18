@@ -1,1 +1,2 @@
-# Relat-rioLEDA
+#  Execução do código:
+
