@@ -11,3 +11,4 @@ Segue abaixo os passos de como dever ser feita a execução do código:
 4. Após a extensão ser instalada, aparecerá um ícone abaixo da área das extensões chamado "Testing"
 5. No Testing basta habilitar os testes para Java
 6. Agora a massa de testes está pronta para ser executada.
+7. Os testes estão presentes no arquivo ´ComparacaoTest.java´
