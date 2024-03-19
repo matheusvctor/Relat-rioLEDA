@@ -5,8 +5,9 @@ Segue abaixo os passos de como dever ser feita a execução do código:
 
 # Execução:
 
-1. Após baixar o arquivo é nescessário extrair e abrir a pastar SRC, lá estará os códigos e a massa de testes que será feita.
-
-2. O código foi feito no Visual Studio Code, então é necessario as extenções "Test Ruiner for JAVA" para que as massas de testes sejam executadas.
-
-3. Após isso, basta apenas clicar no primeiro icone verde no canto esquerdo do código para que todos os testes sejam executados de uma só vez.
+1. O código foi feito através do Visual Studio Code, após o download do arquivo é necessário que o mesmo seja extraído
+2. Após isso basta apenas abrir a pasta pelo Visual Studio Code
+3. Também é necessária uma extensão para que a massa de testes possa ser executada, sendo a extenssão "Test Runenr fo Java"
+4. Após a extensão ser instalada, aparecerá um ícone abaixo da área das extensões chamado "Testing"
+5. No Testindo basta habilitar os testes para Java
+6. Agora a massa de testes está pronta para ser executada.
